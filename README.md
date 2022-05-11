@@ -25,7 +25,7 @@ docker run -p 6080:80 -v /dev/shm:/dev/shm -v ${PWD}/knime-workspace:/root/knime
 
 Browse http://your_ip:6080/
 
-<img src="https://raw.github.com/elestio/docker-desktop-vnc/master/screenshots/lxde.png?v1" width=700/>
+<img src="https://raw.githubusercontent.com/elestio/docker-desktop-vnc/main/screenshots/lxde.png" width=700/>
 
 
 ## VNC Viewer
