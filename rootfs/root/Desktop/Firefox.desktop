@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Firefox
+GenericName=Firefox
+Comment=Firefox
+Exec=firefox %u
+StartupNotify=true
+Terminal=false
+Icon=firefox
+Type=Application
+Categories=Tools;
+

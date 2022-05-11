@@ -1,0 +1,4 @@
+*.pyc
+tags
+cscope*
+knime-workspace/*
